@@ -1,0 +1,8 @@
+This project consists in a day-counter device.
+
+It uses :
+- A LCD screen with driver (HT1621 compatible)
+- An ATTINY85 running at 1MHz
+- One soft tactile button
+
+Full project is available on https://www.iot-experiments.com
